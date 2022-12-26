@@ -7,6 +7,8 @@ MMT is a Matlab toolbox implementing the multi-task Lasso models, including: (i)
 
 <strong>Output:</strong> a (p*K) estimated sparse coefficient matrix B.
 
+<strong>Usage:</strong> please refer to the file ./doc/mmt_user_manual.pdf
+
 <strong>References:</strong>
 
 [1] A two-graph guided multi-task Lasso approach for eQTL mapping. Xiaohui Chen, Xinghua Shi, Xing Xu, Zhiyong Wang, Ryan E. Mills, Charles Lee, Jinbo Xu. (2012) International Conference on Artificial Intelligence and Statistics (AISTATS'12).
